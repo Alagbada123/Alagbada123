@@ -1,10 +1,12 @@
-👋 Hi, I'm Abiodun Alagbada <br/>
-🌟 About Me: <br/>
-I am a Mathematician 📐, <br/> 
-.... a Software Engineer 💻, <br/>
-.... and a passionate Programmer ⌨️. <br/>
+👋 Hi, I'm Abiodun Alagbada!
+🚀 About Me:
+🔢 Mathematician – Exploring the beauty of numbers, equations, and algorithms. <br/>
+💻 Software Engineer – Building efficient, scalable, and impactful solutions.  <br/>
+⌨️ Passionate Programmer – Crafting code with precision and creativity.  <br/>
 
+📚 PhD Candidate in Applied Mathematics | 💡 Tech Enthusiast | 🔍 Problem Solver   <br/>
 
+🚀 Let’s connect and build something amazing!
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alagbada.abiodun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abiodunalagbada) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AbiodunAlagbada) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/InteractionBitter899) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@profabiodunalagba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ABIODUNALAGBAD1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@abiodunalagbada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abiodunalagbada@gmail.com) 
 
